@@ -1,0 +1,9 @@
+
+.study-mode ytd-browse[page-subtype="home"],
+.study-mode ytd-rich-grid-renderer,
+.study-mode ytd-reel-shelf-renderer,
+.study-mode a[title="Shorts"],
+.study-mode #secondary,
+.study-mode #comments {
+    display: none !important;
+}
