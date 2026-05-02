@@ -22,17 +22,6 @@ The extension uses a simple approach:
 
 ---
 
-## 📁 Project Structure
-youtube-study-mode/
-│── manifest.json # Extension configuration
-│── popup.html # UI
-│── popup.css # Popup styling
-│── popup.js # Toggle logic
-│── content.js # Applies study mode
-│── style.css # Hides distractions
-
----
-
 ## ⚙️ Installation (Manual)
 
 1. Clone or download this repo  
