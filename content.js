@@ -30,4 +30,4 @@ function hookNavigation() {
 run();
 hookNavigation();
 
-chrome.storage.onChanged.addListener(run);
+chrome.storage.onChanged.addListener(() => run());
